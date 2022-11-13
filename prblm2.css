@@ -1,0 +1,20 @@
+body{
+  background: yellowgreen;
+  
+}
+.container{
+  height:200px;
+  width: 400px;
+  background: white;
+  border-radius: 15px;
+  max-height:800px;
+	margin: 10% auto auto auto;
+}
+.display{
+  font-size: 15px;
+  text-align: center;
+}
+button{
+  background: blueviolet;
+  text-align: center;
+}
